@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# yuzumee · Technical Artist
+
+I build shaders, real-time VFX, and artist tools, with experience
+in Unity and Unreal Engine. My work spans stylized rendering,
+content pipelines, and asset optimization.
+
+## Tools & Skills
+
+- **Real-time:** Unity, Unreal Engine 5, Shader Graph, VFX Graph, Blueprints
+- **Programming:** C#, Python, HLSL, MEL
+- **3D & Texturing:** Maya, Blender, Substance 3D Designer & Painter, ZBrush
+- **Workflow:** Git/GitLab, Figma, Photoshop
+
+## Focus
+
+- Interactive shaders, materials, and VFX
+- Artist tools and content pipelines
+- Performance profiling and optimization
